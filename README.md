@@ -49,7 +49,6 @@ This application requires a Google Gemini API Key to function. It's free to get 
 
 **Akash Pattanayak**
 *   📧 Email: [akashpattanayak89@gmail.com](mailto:akashpattanayak89@gmail.com)
-*   💻 GitHub: [Review my code](https://github.com/)
 
 ---
 
