@@ -5,8 +5,8 @@ import { useEncryptedStorage } from '../hooks/useEncryptedStorage';
 import { streamGeminiAnalysis, mapGeminiError } from '../services/geminiService';
 import type { AnalysisResult } from '../services/geminiService';
 import { generateAnalysisReport } from '../services/reportService';
-import { ScoreGauge, SkillBadge, TokenEstimator, ThreeDTiltCard, CoverLetterGenerator } from './common';
-import { motion, AnimatePresence } from 'framer-motion';
+import { ScoreGauge, SkillBadge, TokenEstimator, ThreeDTiltCard } from './common';
+import { motion } from 'framer-motion';
 
 interface AnalysisViewProps {
     extractedText: string;

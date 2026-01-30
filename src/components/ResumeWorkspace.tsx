@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
 import { Upload, FileText, X, FileType, Eye, FileDigit } from 'lucide-react';
 import { extractPdfText, sanitizeText } from '../services/pdfService';
 

@@ -4,4 +4,4 @@ export * from './TokenEstimator';
 export * from './ResumeRadarChart';
 export * from './ThreeDTiltCard';
 export * from './AnimatedBackground';
-export * from './CoverLetterGenerator';
+
